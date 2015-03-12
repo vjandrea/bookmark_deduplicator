@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+ 
+<!DOCTYPE ddbsettings>
+
+<vbox xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+<setting type="control" title="Check for duplicate bookmarks">
+	<button id="starttheaction" label="Start" /> 
+</setting>
+
+
+</vbox>
